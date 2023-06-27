@@ -1,0 +1,8 @@
+README.md
+setup.py
+Trial1.egg-info/PKG-INFO
+Trial1.egg-info/SOURCES.txt
+Trial1.egg-info/dependency_links.txt
+Trial1.egg-info/not-zip-safe
+Trial1.egg-info/requires.txt
+Trial1.egg-info/top_level.txt
